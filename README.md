@@ -9,4 +9,4 @@ Everything is protected under Ryo license. Will need to fill this information in
 
 ## Authors
 
-@lh1008 - https://lh1008.github.io/
+[@lh1008](https://github.com/lh1008) - https://lh1008.github.io/
